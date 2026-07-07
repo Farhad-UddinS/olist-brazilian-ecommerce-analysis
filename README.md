@@ -71,7 +71,7 @@ Three pages, each answering a specific question.
 - Top 10 and Bottom 10 states by revenue (São Paulo dominates)
 - Revenue split by payment type (credit card = 79.5%)
 
-**Headline finding on the next page: São Paulo alone contributes 38.2% ($3.72M) of total revenue.**
+
 
 ![Page 1 — Sales Overview](screenshots/page1_sales_overview.png)
 
@@ -82,9 +82,7 @@ Three pages, each answering a specific question.
 - New vs repeat customer trend
 - Installment payment analysis
 
-**Headline finding: São Paulo alone contributes 38.2% ($3.72M) of total revenue.**
-
-**Headline finding: Health & Beauty ($1.26M) and Watches & Gifts ($1.21M) lead category revenue. But high revenue ≠ high retention. Which is why Page 3 exists.**
+**Headline finding: São Paulo alone contributes 38.2% ($3.72M) of total revenue. Health & Beauty ($1.26M) and Watches & Gifts ($1.21M) lead category revenue. But high revenue ≠ high retention. Which is why Page 3 exists.**
 
 ![Page 2 — Sales Drivers](screenshots/page2_sales_drivers.png)
 
