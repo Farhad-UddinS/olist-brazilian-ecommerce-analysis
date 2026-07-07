@@ -66,7 +66,7 @@ Three pages, each answering a specific question.
 
 ### Page 1 — Sales Overview: "How are we doing?"
 
-- 5 KPI cards with YoY and MoM deltas
+- 4 KPI cards with YoY and MoM deltas
 - Revenue over time
 - Top 10 and Bottom 10 states by revenue (São Paulo dominates)
 - Revenue split by payment type (credit card = 79.5%)
